@@ -1,0 +1,12 @@
+Nov 11, 2025 11:31:11 PM org.nopcommerce.com.Pages.BasePage waitForVisibilityOf
+INFO: Wait for elementBy.id: small-searchterms to be visible for: 6 seconds
+Nov 11, 2025 11:31:11 PM org.nopcommerce.com.Pages.BasePage inputText
+INFO: Typing 'Iphone 16' into: Search box
+Nov 11, 2025 11:31:36 PM org.nopcommerce.com.Pages.BasePage waitForVisibilityOf
+INFO: Wait for elementBy.xpath: (//button[normalize-space()='SEARCH'])[1] to be visible for: 6 seconds
+Nov 11, 2025 11:45:52 PM org.nopcommerce.com.Pages.BasePage waitForVisibilityOf
+INFO: Wait for elementBy.id: small-searchterms to be visible for: 6 seconds
+Nov 11, 2025 11:45:52 PM org.nopcommerce.com.Pages.BasePage inputText
+INFO: Typing 'Iphone 16' into: Search box
+Nov 11, 2025 11:45:52 PM org.nopcommerce.com.Pages.BasePage waitForVisibilityOf
+INFO: Wait for elementBy.xpath: (//button[normalize-space()='SEARCH'])[1] to be visible for: 6 seconds
